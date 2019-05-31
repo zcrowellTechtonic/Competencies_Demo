@@ -1,0 +1,6 @@
+/Users/zacharycrowell/Projects/C_Sharp_Competency/C_Sharp_Competency/bin/Debug/C_Sharp_Competency.exe
+/Users/zacharycrowell/Projects/C_Sharp_Competency/C_Sharp_Competency/bin/Debug/C_Sharp_Competency.pdb
+/Users/zacharycrowell/Projects/C_Sharp_Competency/C_Sharp_Competency/obj/x86/Debug/C_Sharp_Competency.csprojAssemblyReference.cache
+/Users/zacharycrowell/Projects/C_Sharp_Competency/C_Sharp_Competency/obj/x86/Debug/C_Sharp_Competency.csproj.CoreCompileInputs.cache
+/Users/zacharycrowell/Projects/C_Sharp_Competency/C_Sharp_Competency/obj/x86/Debug/C_Sharp_Competency.exe
+/Users/zacharycrowell/Projects/C_Sharp_Competency/C_Sharp_Competency/obj/x86/Debug/C_Sharp_Competency.pdb
